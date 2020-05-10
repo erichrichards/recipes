@@ -20,3 +20,4 @@
 * It takes awhile to blend up the fruit, so do that before the spinach is added. You want to minimize the amount of blending you do for the spinach or your smoothie color will be brown
 * Makes 2 servings. I have one immediately and put the other in a pint glass in the fridge w/ a sandwich baggie over the top for the next day.
 * After it sits overnight, the color may be a little brown but it still tastes the same.
+* If you have bananas that are getting a bit brown, you can put them in the freezer to save them and put the whole frozen banana (peeled, duh) into the blender for the smoothie.
