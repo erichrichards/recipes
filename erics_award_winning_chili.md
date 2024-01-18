@@ -1,69 +1,51 @@
 # Eric's Award-Winning Chili Recipe
 
 ## Ingredients
-### Vegetable prep
-- 2 tbsp butter
-- 1 lg white onion, finely chopped
-- 1 lg red bell pepper, finely chopped
-- 4 cloves garlic, crushed (4 cloves whole used in later step as well)
-
-### Meat
-- 1 lb beef stew chunks
-- 1 lb ground beef (lean 90/10 preferable)
-
-### Beans & tomatoes
-- 2, 15oz cans chili beans in sauce, low sodium
-- 1, 15oz cans petite-diced tomatores, drained
-
-### Blended paste
-- 1, 7oz can chipotle peppers in adobo sauce
-- 4 cloves garlic, whole
-- 3 Fresno chili peppers, de-seeded
-
-### Seasoning
-- 1-3 packets off-the-shelf medium chili seasoning packets (number of packets sized based on lbs of meat/beans on the back of the recipe)
-- 1 tbsp tomato paste
-- 1-2 tbsp Blue Mountain Country Jamaican Curry powder
-- 2 bay leaves
-- 2 tbsp dijon mustard
-- 1 tbsp Hungarian sweet paprika
-- 1 packet Sazon Goya
-- 1 tbsp worcestershire sauce
+### Chili
+- 1 pint stock, low or no sodium (beef/veg/chicken if homemade, only veg/chicken if from the store)
+- 3 Ancho chiles (dried)
+- 4 Guajillo chiles (dried) 
+- Worcestershire sauce
+- Dijon mustard
+- 2 lb beef chuck roast, whole steaks
+- 1.5 lb ground beef, lean 90/10
+- 2 TBSP vegetable oil
+- 8 cloves garlic
+- 3 chipotle peppers in adobo sauce (usually is most or all of the 4oz can)
+- 1 large red bell pepper, finely chopped
+- 1-2 large onions, finely chopped (1 if it's size of a softball)
+- 2 TBSP tomato paste
+- 1, 15oz can diced tomatoes, **drained**
+- 3, 15oz cans pinto beans, **drained** (if you can find the "Mrs. Grimes" 15oz cans of low sodium pinto beans in chili sauce, use those)
+- Onion and garlic powder
+- Sweet Hungarian paprika
+- 1 off-the-shelf mild chili seasoning packet or chili powder
 
 ### For serving
 - Oyster crackers
 - Sour cream
-- Shredded cheese
-- Green onions
+- Green onion, finely chopped
+- Monterey jack cheese, shredded
 
 ## Steps
-1. In dutch oven or big pot, sautee onion with butter
-2. Add bell pepper and cook until softened up a bit
-3. Add the 4 cloves crushed garlic and cook until fragrant, but not browned
-4. Take big pot off the heat for now
-5. In a ripping-hot skillet/frying pan, sear beef stew chunks
-   * Work in batches to not overcrowd the pan
-   * Not trying to cook through, just get outer browning on one or two sides
-   * Put browned chunks into big pot with vegetables
-6. Brown ground beef in skillet/frying pan over medium heat
-   * Put browned meat into big pot
-7. Add chili beans, diced tomatoes, tomato paste, dijon, worcestershire and mix
-8. Put big pot back on medium-low heat
-9. Mix in dried spices
-   * Start with half of OTS chili seasoning packets
-   * OTS chili seasoning packets probably include salt and all are a bit different, so you need to taste as you go
-10. Blend up chipotle peppers in adobo sauce, 4 whole cloves garlic, and 3 Fresno chili peppers
-    * Add a spoonful at a time to chili throughout cooking
-    * Taste for heat level as you go
-11. Simmer for 60-90 minutes, stirring periodically, leave the lid on
-12. Serve with oyster crackers, sour cream, shredded cheese, and green onions as toppings
+1. Pat chuck roast steaks dry with a paper towel, trim any large excess fat, and season well with salt and pepper. Set aside.
+2. Thoroughly wash dried chiles and then remove stem and seeds (scissors are easiest)
+2. Bring stock to a boil and drop in dried chiles. Kill the heat and let the dried chiles sit and rehydrate.
+3. Finely chop onion and red bell pepper. Set aside.
+4. By now, the stock-chile pot will have cooled and the chiles are rehydrated. Add the mix to your blender. Also add garlic cloves, chipotle peppers in adobo, Dijon mustard, and Worcestershire sauce. Blend until you have a smooth paste.
+5. Preheat vegetable oil in your large skillet/dutch oven until it begins to smoke. Sear your chuck roast steaks **HARD** on the two main sides so you get a good browned crust. Remove the chuck steaks and set aside to rest.
+6. Lower heat to medium-high and half-brown your ground beef. It will fully cook in the chili later, so you're really just trying to plop down the chunk of beef and get a good sear on one side of the block at least. This actually works better if you have a frozen block of ground beef.
+7. Lower heat to medium. Drain excess fat from ground beef off until you have 2-3 tablespoons left. Add onion, red bell pepper and tomato paste. Stir and cook until your beef is all browned and you have some translucent onions. 
+8. Drop heat to low. Add beans, diced tomatoes, and a good dollup of the paste from the blender. Put the lid on.
+9. Cut up the beef chuck steaks now that they've cooled and rested a bit. You want 1"ish chunks b/c they shrink a bit while cooking. Add to the pot.
+10. Simmer for 60-90 minutes with the lid on, stirring periodically. 
+11. Finishing: add more and more of the blended paste to adjust your heat level to taste. If you feel like you need more "chili" flavor but are good on heat level, do the same with the chili powder/seasoning packet. Also good to add in some onion/garlic powder so you get both fresh veg and dried flavor. Add Hungarian sweet paprika to amp up flavor and color.  Adjust salt and black pepper last to taste. Seriously, this step should be your 90-min to 120-min mark ... spend time just adding a little bit at a time, tasting, and adjusting slowly.
 
 ## Notes
-- Cooking the meat separately lets you get browned flavor and control cooking so it's not already fully cooked going into the pot.  
-- Ground beef + beef chunks makes for better mix of flavor and texture
-- Canned beans are already cooked, and don't need to stew all day. No noticeable taste difference from soaking dried beans.
-- Fish out bay leaves at the end
-- At the start of the simmering period, the chili will look almost too dry or thick, but moisture releases during cooking and consistency gets more sauce-like
-- My butcher has the pre-cut 3/4" beef stew chunks in their case, so I don't have to cube it myself.
-- You will probably not need to use all of the blender mix or the OTS seasoning packets. Blender mix is like Super Sambal Oelek and is great on eggs.
-- Use low-sodium chili beans in sauce, or your salt level at the end might be too much.
+- At the start of the simmering period, the chili will look almost too dry or thick, but moisture releases during cooking and consistency gets more sauce-like. Moisture control is important -- you don't want chili soup.
+- Calling for low-sodium stock and beans is just so that you can control the salt level after everything is together. Chili seasoning packet and/or chili powder you get can have salt in it, so you want to have to add salt at the end to taste
+- Don't blend something when it's still piping hot, or you can have a kitchen explosion. 
+- Cooking the meat separately lets you get browned flavor and control cooking so it's not overcooked before going into the pot to cook more.
+- Ground beef + beef chunks makes for better mix of flavor and texture.
+- Searing the beef chuck steaks whole lets you get some amazing flavor development without overcooking the meat.
+- Canned beans are already cooked, and don't need to stew all day. 
